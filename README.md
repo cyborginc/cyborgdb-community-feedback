@@ -55,13 +55,14 @@ See [HACKATHON.md](HACKATHON.md) for complete details on:
 ## Contributing
 
 This repo is for technical feedback and bug reports. For code contributions to CyborgDB itself, see our main repositories:
-Client SDKs:
+**Client SDKs:**
 - [Python](github.com/cyborginc/cyborgdb-py)
 - [TypeScript / JavaScript](github.com/cyborginc/cyborgdb-js)
 - [Go](github.com/cyborginc/cyborgdb-go)
-CyborgDB Service:
+
+**CyborgDB Service:**
 - Coming Soon
-- 
+ 
 ---
 
 **Note:** Issues filed here help shape what production-ready encrypted vector search needs to handle. Your feedback matters—whether you're finding bugs or proving our claims hold up under real workloads.
