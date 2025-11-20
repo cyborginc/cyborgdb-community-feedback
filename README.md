@@ -55,6 +55,7 @@ See [HACKATHON.md](HACKATHON.md) for complete details on:
 ## Contributing
 
 This repo is for technical feedback and bug reports. For code contributions to CyborgDB itself, see our main repositories:
+
 **Client SDKs:**
 - [Python](github.com/cyborginc/cyborgdb-py)
 - [TypeScript / JavaScript](github.com/cyborginc/cyborgdb-js)
