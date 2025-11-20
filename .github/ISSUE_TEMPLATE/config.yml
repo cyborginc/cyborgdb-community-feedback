@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Technical Support
+    url: https://discord.gg/jMF7kdNm
+    about: For setup questions and quick help, join our support channel
+  - name: Documentation
+    url: https://docs.cyborg.co
+    about: Check the docs before filing an issue
