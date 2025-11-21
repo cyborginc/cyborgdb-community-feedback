@@ -8,8 +8,8 @@ Filing issues in this repo is **required** for award eligibility. We're looking 
 
 - **Coding Phase:** November 27, 2025 (3:30 AM UTC) → December 20, 2025 (6:29 PM UTC)
 - **Issue Filing:** Anytime during the hackathon (don't wait until the last day)
-- **Judging:** Week of [DATE TBD]
-- **Winners Announced:** [DATE TBD]
+- **Judging:** Week of January 5, 2025
+- **Winners Announced:** January 12, 2025
 
 ## Requirements for Award Eligibility
 
